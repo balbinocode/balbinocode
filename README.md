@@ -1,8 +1,7 @@
-Olá! Eu sou o Pedro Henrique Balbino👋
-
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá!+Eu+me+chamo+Pedro+Henrique!)
 - 🔭 Estou procurando uma vaga em back-end
 - 🌱 Atualmente aprendendo Java
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -13,8 +12,6 @@ Olá! Eu sou o Pedro Henrique Balbino👋
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-  
-  ##
  
 <div> 
   <a href="https://www.instagram.com/pedro.hbos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
